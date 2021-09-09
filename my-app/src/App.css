@@ -1,0 +1,21 @@
+@media only screen and (max-width:767px) {
+  .App {
+    font-size: x-small;
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width:1023px) {
+  .App {
+    font-size: medium;
+  }
+}
+
+@media only screen and (min-width:1024px) {
+  .App {
+    font-size: large;
+  }    
+}
+
+.App {
+    text-align: center;
+}
