@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LandingPageEcomsur/my-app/static/css/main.ad2997a3.chunk.css",
+    "main.js": "/LandingPageEcomsur/my-app/static/js/main.1e95e414.chunk.js",
+    "main.js.map": "/LandingPageEcomsur/my-app/static/js/main.1e95e414.chunk.js.map",
+    "runtime-main.js": "/LandingPageEcomsur/my-app/static/js/runtime-main.57adb5cd.js",
+    "runtime-main.js.map": "/LandingPageEcomsur/my-app/static/js/runtime-main.57adb5cd.js.map",
+    "static/js/2.8b4ac927.chunk.js": "/LandingPageEcomsur/my-app/static/js/2.8b4ac927.chunk.js",
+    "static/js/2.8b4ac927.chunk.js.map": "/LandingPageEcomsur/my-app/static/js/2.8b4ac927.chunk.js.map",
+    "static/js/3.f7e6cab9.chunk.js": "/LandingPageEcomsur/my-app/static/js/3.f7e6cab9.chunk.js",
+    "static/js/3.f7e6cab9.chunk.js.map": "/LandingPageEcomsur/my-app/static/js/3.f7e6cab9.chunk.js.map",
+    "index.html": "/LandingPageEcomsur/my-app/index.html",
+    "static/css/main.ad2997a3.chunk.css.map": "/LandingPageEcomsur/my-app/static/css/main.ad2997a3.chunk.css.map",
+    "static/js/2.8b4ac927.chunk.js.LICENSE.txt": "/LandingPageEcomsur/my-app/static/js/2.8b4ac927.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57adb5cd.js",
+    "static/js/2.8b4ac927.chunk.js",
+    "static/css/main.ad2997a3.chunk.css",
+    "static/js/main.1e95e414.chunk.js"
+  ]
+}
