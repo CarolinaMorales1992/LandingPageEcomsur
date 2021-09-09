@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/LandingPageEcomsur/static/css/main.ad2997a3.chunk.css",
-    "main.js": "/LandingPageEcomsur/static/js/main.1e95e414.chunk.js",
-    "main.js.map": "/LandingPageEcomsur/static/js/main.1e95e414.chunk.js.map",
+    "main.css": "/LandingPageEcomsur/static/css/main.061f8816.chunk.css",
+    "main.js": "/LandingPageEcomsur/static/js/main.7b96bbc9.chunk.js",
+    "main.js.map": "/LandingPageEcomsur/static/js/main.7b96bbc9.chunk.js.map",
     "runtime-main.js": "/LandingPageEcomsur/static/js/runtime-main.f47346c7.js",
     "runtime-main.js.map": "/LandingPageEcomsur/static/js/runtime-main.f47346c7.js.map",
     "static/js/2.8b4ac927.chunk.js": "/LandingPageEcomsur/static/js/2.8b4ac927.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.f7e6cab9.chunk.js": "/LandingPageEcomsur/static/js/3.f7e6cab9.chunk.js",
     "static/js/3.f7e6cab9.chunk.js.map": "/LandingPageEcomsur/static/js/3.f7e6cab9.chunk.js.map",
     "index.html": "/LandingPageEcomsur/index.html",
-    "static/css/main.ad2997a3.chunk.css.map": "/LandingPageEcomsur/static/css/main.ad2997a3.chunk.css.map",
+    "static/css/main.061f8816.chunk.css.map": "/LandingPageEcomsur/static/css/main.061f8816.chunk.css.map",
     "static/js/2.8b4ac927.chunk.js.LICENSE.txt": "/LandingPageEcomsur/static/js/2.8b4ac927.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f47346c7.js",
     "static/js/2.8b4ac927.chunk.js",
-    "static/css/main.ad2997a3.chunk.css",
-    "static/js/main.1e95e414.chunk.js"
+    "static/css/main.061f8816.chunk.css",
+    "static/js/main.7b96bbc9.chunk.js"
   ]
 }
